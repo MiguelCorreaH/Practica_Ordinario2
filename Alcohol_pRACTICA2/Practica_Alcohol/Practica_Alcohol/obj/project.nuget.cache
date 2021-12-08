@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kp6HK2Wzxi96EWPj8qydwZ0Yex2w+/dfXlZpPqXkQIzimUPQn0dh4TKDr6LsGi4L9zhREQOiEvnFyt+BZNOIsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lobom\\OneDrive\\Documentos\\Practica2_Resistencia\\Alcohol_pRACTICA2\\Practica_Alcohol\\Practica_Alcohol\\Practica_Alcohol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lobom\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\lobom\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\lobom\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\lobom\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\lobom\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\lobom\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
